@@ -1,4 +1,5 @@
-### Hi there 👋
+### превет я водка, я чота умею и я хамстер юзер
+
 
 <!--
 **vodkapivocc/vodkapivocc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
